@@ -5,7 +5,7 @@ date: 2018-03-10
 ---
 
 
-<img src="https://raw.githubusercontent.com/STAT198-Spring18/STAT198-Spring18.github.io/master/_posts/ishan.jpg" alt="ishan" style="width: 400px;"/>
+<img src="https://raw.githubusercontent.com/STAT198-Spring18/STAT198-Spring18.github.io/master/_posts/ishan.png" alt="ishan" style="width: 400px;"/>
 
 
 Ishan is a junior, pursuing a degree in Mathematics and Statistics (and a Minor in

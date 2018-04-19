@@ -4,6 +4,8 @@ title: "Blogging Beyond"
 date: 2018-04-18
 ---
 
+**By Sara Stoudt**
+
 Can blogging be an effective course assignment? We hope so!
 
 This post was inspired by Kelsey's tweet:

@@ -29,7 +29,7 @@ Shameless self-promotion: We're writing a book based on our experiences, so stay
 
 I think assigning a blog post as an assignment can be successful if the emphasis is on:
 
-1. Blogging *beyond* summary.
+1.) Blogging *beyond* summary.
 
 In our case of blogging about statistics/data science, we wanted the goal of the post to be different from the goal of the analysis and to avoid merely stepping through the analysis and summarizing the findings.
 
@@ -45,19 +45,16 @@ If the assignment could just as easily be a report, then what is the point of th
 - Does the author's discussion remind you of any topics you learned about in a different class?
 - What are you still curious about?
 
-2. Blogging to build skills **beyond mastering the course material.
+2.) Blogging to build skills *beyond* mastering the course material.
 
 Your students can show that they understand the material in a variety of different ways, but a blog has the added benefit of teaching about:
 
 - individuality: Students find their voice. What excites them? What engages them in others' blogs? Who are their blog hero(ine)s, and what writing tips can they learn from them?
-
  - accessibility: I propose we stop saying "explain your work in terms your mother/grandmother could understand" and start saying "explain your work in terms a random person on the internet could understand". 
-
 - whimsy: Just because the blog post is a formal assignment does not mean it has to be formal (but spell and grammar check please). 
-
 - technicality: If you or your students need the push (ha) to learn about git, a blog can be set up and maintained using [Github](https://pages.github.com/). 
 
-3. Blogging **beyond the course.
+3.) Blogging *beyond* the course.
 
 Learning how to write a blog is also part of professional development.
 
@@ -69,9 +66,7 @@ Students can learn about blogging through your course and then go on to establis
 I do not claim to be an expert blogger or an expert teacher of how to write blogs, but this principle of training in the medical field has also applied to me as I learned about blogging in the academic realm. 
 
 - Reading many blogs has helped give me a sense of style, ideas about content, and some reassurance that if others can write a blog, so can I. 
-
-- Writing blogs has helped me understand what obstacles may arise for students and remember how much work goes into a short post. 
-
+- Writing blogs has helped me understand what obstacles may arise for students and remember how much work goes into a short post.
 - Teaching about blog writing has forced me to explicitly define what makes a piece of writing successful and formalize the intuition about language built up from reading a lot. 
 
 I hope these musings are (at least a little) helpful. I am curious to hear/read more about others' experiences, and would be interested in keeping a discussion about the role of blogs in education going.
@@ -81,17 +76,11 @@ I hope these musings are (at least a little) helpful. I am curious to hear/read 
 These are from a quick Google Search. Please point me to resources that have been useful to you.
 
 - https://learninginnovation.duke.edu/blog/2012/01/blogging-in-the-undergraduate-science-classroom/
-
 - http://www.museion.ku.dk/2012/02/dear-students-in-this-classroom-you-will-have-to-have-your-mobiles-turned-on/
-
 - https://storify.com/Bjerglund/blogging-in-the-classroom
-
 - https://www.johnmackintosh.com/2017-12-30-time-to-shine/
-
 - http://varianceexplained.org/r/start-blog/
-
 - [To blog or not to blog: Student perceptions of blog effectiveness for learning in a college-level course](https://www.sciencedirect.com/science/article/pii/S1096751610000321)
-
 - [Blogging as a social medium in undergraduate courses: Sense of community best predictor of perceived learning](https://www.sciencedirect.com/science/article/pii/S109675161100008X)
 
 
